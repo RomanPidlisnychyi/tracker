@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tracker/build/static/css/main.38881bff.chunk.css",
+    "main.js": "/tracker/build/static/js/main.96cb2796.chunk.js",
+    "main.js.map": "/tracker/build/static/js/main.96cb2796.chunk.js.map",
+    "runtime-main.js": "/tracker/build/static/js/runtime-main.1364858a.js",
+    "runtime-main.js.map": "/tracker/build/static/js/runtime-main.1364858a.js.map",
+    "static/js/2.78887389.chunk.js": "/tracker/build/static/js/2.78887389.chunk.js",
+    "static/js/2.78887389.chunk.js.map": "/tracker/build/static/js/2.78887389.chunk.js.map",
+    "index.html": "/tracker/build/index.html",
+    "static/css/main.38881bff.chunk.css.map": "/tracker/build/static/css/main.38881bff.chunk.css.map",
+    "static/js/2.78887389.chunk.js.LICENSE.txt": "/tracker/build/static/js/2.78887389.chunk.js.LICENSE.txt",
+    "static/media/ButtonControl.module.css": "/tracker/build/static/media/play-circle.07a03462.svg",
+    "static/media/CreateTracker.module.css": "/tracker/build/static/media/play3.39edcc29.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1364858a.js",
+    "static/js/2.78887389.chunk.js",
+    "static/css/main.38881bff.chunk.css",
+    "static/js/main.96cb2796.chunk.js"
+  ]
+}
