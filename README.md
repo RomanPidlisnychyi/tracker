@@ -1,1 +1,1 @@
-https://romanpidlisnychyi.github.io/tracker/build
+https://romanpidlisnychyi.github.io/tracker/build/

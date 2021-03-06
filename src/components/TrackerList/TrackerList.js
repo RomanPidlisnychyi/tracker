@@ -14,7 +14,7 @@ export default function TrackerList() {
           ))}
         </ul>
       ) : (
-        <span>Cteate new tracker now</span>
+        <p className={styles.text}>Cteate new tracker now</p>
       )}
     </div>
   );
